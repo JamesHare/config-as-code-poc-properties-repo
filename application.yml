@@ -1,0 +1,2 @@
+external.service.url: www.external-service.com
+external.service.endpoint: {external.service.url}/example

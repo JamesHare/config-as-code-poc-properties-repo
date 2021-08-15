@@ -1,2 +1,3 @@
-# config-as-code-poc-properties-repo
-A properties repo to make dynamic application config changes to multiple microservices.
+# Spring Configuration Properties Repository
+
+An example of a centralized Spring properties repo.
