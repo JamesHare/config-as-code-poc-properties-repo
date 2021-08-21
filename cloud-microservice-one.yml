@@ -6,3 +6,6 @@ config:
     - name: Oklahoma
       conference: 'Big 12'
       head-coach: 'Lincoln Riley'
+    - name: Clemson
+      conference: ACC
+      head-coach: 'Dabo Swinney'
